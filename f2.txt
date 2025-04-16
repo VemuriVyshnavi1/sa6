@@ -1,0 +1,2 @@
+This is a f2.txt file
+this is devops lab2
